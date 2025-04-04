@@ -56,7 +56,6 @@ Le projet est structuré en 4 TPs, réalisés de manière progressive.
 - Recherche d’auteur probable à partir d’un texte
 - Évaluation via le **rang moyen**, **top-1** et **top-5 accuracy**
 - **Projection 2D** des auteurs avec PCA (Matplotlib)
-> *(La version interactive avec Plotly a été envisagée mais non implémentée)*
 
 ---
 
